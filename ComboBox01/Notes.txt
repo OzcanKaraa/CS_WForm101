@@ -1,0 +1,12 @@
+﻿--Combobox .
+Form uzerinde bir adet label ,button,combobox olacak.
+Butona basildiginda Combobox icerigi elemanlari doldurulacak.
+(1 den 20 ye kadar sayilar )
+Icerik :
+Combobox icerigi (elemanlari)
+1.sayi
+2.sayi 
+...
+20.sayi 
+
+---------------------------------------------------------------------
