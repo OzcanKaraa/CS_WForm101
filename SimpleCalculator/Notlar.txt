@@ -19,6 +19,8 @@ kullanabiliriz...)
 bu komponentden seçilen seçeneğe göre işlemler yapılacak
 yine boşluk kontrollü yapıda sonuç yazılacak
 
+
+
 ---------------------------------------------------------------------------
 
 
